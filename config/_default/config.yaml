@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Julien Millasseau # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://millasseauj.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
@@ -55,6 +55,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
 related:
   threshold: 80
   includeNewer: true
