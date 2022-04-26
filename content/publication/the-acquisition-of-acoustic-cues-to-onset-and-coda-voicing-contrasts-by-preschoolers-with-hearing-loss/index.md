@@ -9,7 +9,7 @@ authors:
   - Ivan Yuen
   - Katherine Demuth
 doi: https://doi.org/10.1044/2021_JSLHR-20-00311
-publication: Journal of Speech, Language, and Hearing Research 64(12), pp. 4631-4648
+publication: *Journal of Speech, Language, and Hearing Research, 64*(12), 4631-4648
 abstract: >-
   Purpose: Children with hearing loss (HL), including those with hearing aids
   (HAs) and cochlear implants (CIs), often have difficulties contrasting words

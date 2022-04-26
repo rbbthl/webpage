@@ -9,7 +9,7 @@ authors:
   - Ivan Yuen
   - Katherine Demuth
 doi: https://doi.org/10.1121/10.0003060
-publication: The Journal of the Acoustical Society of America 149(1),pp. 348-360
+publication: *The Journal of the Acoustical Society of America, 149*(1), 348-360
 abstract: Voicing contrasts are lexically important for differentiating words in
   many languages (e.g., “bear” vs “pear”). Temporal differences in the voice
   onset time (VOT) and closure duration (CD) contribute to the voicing contrast
