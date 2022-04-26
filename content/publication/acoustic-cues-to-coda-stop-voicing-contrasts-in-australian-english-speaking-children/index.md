@@ -13,7 +13,7 @@ authors:
   - Demuth
   - K.
 doi: https://doi.org/10.1017/S0305000920000781
-publication: Journal of Child Language
+publication: Journal of Child Language 48(6), Novembre 2021, pp. 1262-1280
 abstract: While voicing contrasts in word-onset position are acquired relatively
   early, much less is known about how and when they are acquired in word-coda
   position, where accurate production of these contrasts is also critical for
