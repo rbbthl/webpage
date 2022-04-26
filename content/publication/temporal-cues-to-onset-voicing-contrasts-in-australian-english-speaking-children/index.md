@@ -3,6 +3,11 @@ title: Temporal cues to onset voicing contrasts in Australian English-speaking
   children
 publication_types:
   - "2"
+authors:
+  - Millasseau
+  - Bruggeman
+  - Yuen
+  - Demuth
 doi: https://doi.org/10.1121/10.0003060
 publication: The Journal of the Acoustical Society of America 149(1), January
   2021, pp. 348-360
@@ -31,5 +36,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-04-26T05:33:37.538Z
+date: 2022-04-26T05:39:51.940Z
 ---
