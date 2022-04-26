@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Laurence Bruggeman
-  - Julien Millasseau
+  - "**Julien Millasseau**"
   - Ivan Yuen
   - Katherine Demuth
 doi: https://doi.org/10.1044/2021_JSLHR-20-00311
