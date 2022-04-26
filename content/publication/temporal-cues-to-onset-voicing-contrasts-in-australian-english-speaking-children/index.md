@@ -4,10 +4,7 @@ title: Temporal cues to onset voicing contrasts in Australian English-speaking
 publication_types:
   - "2"
 authors:
-  - "Julien Millasseau
-  - Laurence Bruggeman
-  - Ivan Yuen
-  - Katherine Demuth"
+  - "**Julien Millasseau**"
 doi: https://doi.org/10.1121/10.0003060
 publication: "*The Journal of the Acoustical Society of America, 149*(1), 348-360"
 abstract: Voicing contrasts are lexically important for differentiating words in
