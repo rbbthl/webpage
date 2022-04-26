@@ -4,7 +4,7 @@ title: Acoustic cues to coda stop voicing contrasts in Australian
 publication_types:
   - "2"
 authors:
-  - "**Julien Millasseau**"
+  - Julien Millasseau
   - Laurence Bruggeman
   - Ivan Yuen
   - Katherine Demuth
