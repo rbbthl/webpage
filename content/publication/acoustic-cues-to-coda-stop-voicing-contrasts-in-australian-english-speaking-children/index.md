@@ -4,16 +4,12 @@ title: Acoustic cues to coda stop voicing contrasts in Australian
 publication_types:
   - "2"
 authors:
-  - Millasseau
-  - J.
-  - Yuen
-  - I.
-  - Bruggeman
-  - L.
-  - Demuth
-  - K.
+  - Julien Millasseau
+  - Laurence Bruggeman
+  - Ivan Yuen
+  - "& Katherine Demuth"
 doi: https://doi.org/10.1017/S0305000920000781
-publication: Journal of Child Language 48(6), Novembre 2021, pp. 1262-1280
+publication: Journal of Child Language 48(6), pp. 1262-1280
 abstract: While voicing contrasts in word-onset position are acquired relatively
   early, much less is known about how and when they are acquired in word-coda
   position, where accurate production of these contrasts is also critical for
@@ -34,5 +30,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-04-26T05:25:49.259Z
+date: 2021-11-01T04:25:49.259Z
 ---
