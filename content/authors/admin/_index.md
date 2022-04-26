@@ -6,7 +6,7 @@ title: Julien Millasseau (PhD)
 superuser: true
 
 # Role/position
-role: Researcher
+role: Researcher Data Analyst
 
 # Organizations/Affiliations
 organizations:
