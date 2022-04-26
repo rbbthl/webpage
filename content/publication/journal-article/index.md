@@ -4,8 +4,10 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
-- Robert Ford
+- Julien Millasseau
+- Laurence Bruggeman
+- Ivan Yuen
+- Katherine Demuth
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
