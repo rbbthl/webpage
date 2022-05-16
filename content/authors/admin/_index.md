@@ -6,7 +6,7 @@ title: Julien Millasseau (PhD)
 superuser: true
 
 # Role/position
-role: Researcher Data Analyst
+role: Research Data Analyst
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ bio: My research interests include epidemiology of drug and alcohol issues in yo
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:julien.millasseau@unsw.edu.au".
+  link: '/contact'  # For a direct email link, use "mailto:millasseauj@noffs.org.au".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JulMillasseau
