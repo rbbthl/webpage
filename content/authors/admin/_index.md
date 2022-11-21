@@ -10,8 +10,7 @@ role: Research Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: The Ted Noffs Foundation
-- name: The University of New South Wales
+- name: Youth Off The Streets
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
